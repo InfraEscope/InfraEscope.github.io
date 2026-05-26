@@ -5,7 +5,7 @@ Linux Infrastructure & VPS Services portfolio.
 Focused on:
 
 - Linux Administration
-- Docker & Docker Compose
+- Docker & Docker Compose.
 - NGINX Reverse Proxy
 - SSL/TLS & Certbot
 - VPS Troubleshooting
