@@ -50,4 +50,4 @@ Linux debugging, logs analysis and infrastructure troubleshooting.
 ## Website
 
 https://infraescope.github.io
-.
+
